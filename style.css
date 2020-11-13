@@ -1,0 +1,110 @@
+
+body{
+
+  background-color: Powderblue;
+  width: 960px;
+  margin: 20px 20px 20px 20px;
+  font-family: 'Maven Pro', sans-serif;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  text-align:center;
+}
+
+
+h3 {
+  font-family: Verdana, Helvetica, sans-serif;
+  text-align:center;
+}
+
+
+
+
+blockquote{text-align: center;}
+
+.banner{
+    color: white;
+    height:100px;
+    width: 960px;
+    background-color: #7eb9bf
+}
+
+
+
+.indexpic{ 
+    display:block;
+    margin-left: 387px;
+    margin-right: auto;
+}
+
+.sample{
+    display:block;
+    margin-left: 170px;
+    margin-right: auto;
+}    
+
+a{
+    text-decoration: none;
+    color: #027373;
+    font-weight:400
+}
+
+a:hover{
+    color: #7eb9bf
+}
+
+paragraph{text-align: right;}
+
+nav{border-top: medium groove black;
+    border-bottom: medium groove black;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+nav li{
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+img{
+    border-radius: 50%;
+   }
+
+.container{
+  max-width: 520px;
+  margin: auto;
+  background: #f2f2f2;
+  overflow: auto;
+  height: 1200px;
+}
+
+.gallery{
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 500px;
+}
+
+.gallery img{
+  width: 100%;
+  height: auto;
+}
+
+.desc{ 
+  padding: 5px;
+  text-align: center;
+  color: white;  
+  background-color: #7eb9bf;
+}
+
+.bio{
+    color: white;
+    background-color: #7eb9bf;
+    float:right;
+    padding-left: 15px;
+    margin: 20px;
+    width: 700px;
+}
